@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/koenvantomme/firstapp-devops/_apis/build/status/koenvantomme.pipelines-java?branchName=master)](https://dev.azure.com/koenvantomme/firstapp-devops/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
